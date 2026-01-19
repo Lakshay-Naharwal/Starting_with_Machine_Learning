@@ -7,7 +7,6 @@ EDA is a crucial step in the data analysis pipeline that helps in understanding 
 
 The notebook demonstrates **step-by-step EDA techniques** using Python libraries commonly used in data science.
 
- is
 ---
 
 
