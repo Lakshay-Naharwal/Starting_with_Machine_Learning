@@ -130,7 +130,7 @@ This repository will be updated regularly as I continue learning Machine Learnin
 
 ## 🤝 Connect With Me
 
-* **GitHub:** [Lucky-Nahar](https://github.com/Lucky-Nahar)
+* **GitHub:** [Lucky-Nahar](https://github.com/Lakshay-Naharwal)
 * **LinkedIn:** [https://www.linkedin.com/in/lakshay-naharwal](https://www.linkedin.com/in/lakshay-naharwal)
 
 ---

@@ -99,7 +99,7 @@ After going through this notebook, you will be able to:
 
 **Lakshay**
 B.Tech CSE (AI & ML)
-📎 [GitHub](https://github.com/Lucky-Nahar)
+📎 [GitHub](https://github.com/Lakshay-Naharwal)
 📎 [LinkedIn](https://www.linkedin.com/in/lakshay-naharwal)
 
 ---
